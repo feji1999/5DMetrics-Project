@@ -1,0 +1,25 @@
+{
+    "categories": ["Spirituality/Mindfulness", "Physical Health Metrics", "Career Metrics", "Financial Metrics", "Social Circles"],
+    "organizations": [
+        {
+            "name": "Organization 1",
+            "scores": [4, 4, 5, 4, 3]
+        },
+        {
+            "name": "Organization 2",
+            "scores": [5, 5, 4, 5, 2]
+        },
+        {
+            "name": "Organization 3",
+            "scores": [3, 4, 5, 3, 5]
+        },
+        {
+            "name": "Organization 4",
+            "scores": [2, 3, 4, 2, 4]
+        },
+        {
+            "name": "Organization 5",
+            "scores": [4, 3, 2, 5, 3]
+        }
+    ]
+}
